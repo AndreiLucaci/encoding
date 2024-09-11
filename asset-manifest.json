@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/encoding/static/css/main.da84156d.chunk.css",
-    "main.js": "/encoding/static/js/main.047ad534.chunk.js",
-    "main.js.map": "/encoding/static/js/main.047ad534.chunk.js.map",
-    "runtime-main.js": "/encoding/static/js/runtime-main.ba924c71.js",
-    "runtime-main.js.map": "/encoding/static/js/runtime-main.ba924c71.js.map",
-    "static/css/2.a6725e97.chunk.css": "/encoding/static/css/2.a6725e97.chunk.css",
-    "static/js/2.02ce356d.chunk.js": "/encoding/static/js/2.02ce356d.chunk.js",
-    "static/js/2.02ce356d.chunk.js.map": "/encoding/static/js/2.02ce356d.chunk.js.map",
+    "main.css": "/encoding/static/css/main.89095b97.css",
+    "main.js": "/encoding/static/js/main.352b0606.js",
+    "static/media/roboto-all-400-italic.woff": "/encoding/static/media/roboto-all-400-italic.63782d1445ad031af14d.woff",
+    "static/media/roboto-all-400-normal.woff": "/encoding/static/media/roboto-all-400-normal.b5a0a0df312d3423493b.woff",
+    "static/media/roboto-latin-400-italic.woff2": "/encoding/static/media/roboto-latin-400-italic.d022bc70dc1bf7b3425d.woff2",
+    "static/media/roboto-cyrillic-ext-400-italic.woff2": "/encoding/static/media/roboto-cyrillic-ext-400-italic.c30985e07ee67f55f3e8.woff2",
+    "static/media/roboto-latin-400-normal.woff2": "/encoding/static/media/roboto-latin-400-normal.176f8f5bd5f02b3abfcf.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/encoding/static/media/roboto-cyrillic-ext-400-normal.dd55ea0a2e90d5d86e15.woff2",
+    "static/media/roboto-latin-ext-400-italic.woff2": "/encoding/static/media/roboto-latin-ext-400-italic.5ed4cf182892091e3b75.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/encoding/static/media/roboto-latin-ext-400-normal.dcc07bcfcd475f34f20b.woff2",
+    "static/media/roboto-cyrillic-400-italic.woff2": "/encoding/static/media/roboto-cyrillic-400-italic.7270d0dbb41cca30909b.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/encoding/static/media/roboto-cyrillic-400-normal.3605d18d8a4ce5bd39c3.woff2",
+    "static/media/roboto-greek-400-italic.woff2": "/encoding/static/media/roboto-greek-400-italic.aeaac920d76d2f3697ca.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/encoding/static/media/roboto-greek-400-normal.352cc77aaed5208ce13c.woff2",
+    "static/media/roboto-vietnamese-400-italic.woff2": "/encoding/static/media/roboto-vietnamese-400-italic.d8e5b781ee65ffb7d167.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/encoding/static/media/roboto-vietnamese-400-normal.52cebac009baf5592e7d.woff2",
+    "static/media/roboto-greek-ext-400-italic.woff2": "/encoding/static/media/roboto-greek-ext-400-italic.26c1478a1bb6b2c2c6b0.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/encoding/static/media/roboto-greek-ext-400-normal.bc7ace6e50c7d9d4d959.woff2",
     "index.html": "/encoding/index.html",
-    "precache-manifest.67623ff986a8247726bf2125717fd386.js": "/encoding/precache-manifest.67623ff986a8247726bf2125717fd386.js",
-    "service-worker.js": "/encoding/service-worker.js",
-    "static/css/2.a6725e97.chunk.css.map": "/encoding/static/css/2.a6725e97.chunk.css.map",
-    "static/css/main.da84156d.chunk.css.map": "/encoding/static/css/main.da84156d.chunk.css.map",
-    "static/js/2.02ce356d.chunk.js.LICENSE.txt": "/encoding/static/js/2.02ce356d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/encoding/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+    "main.89095b97.css.map": "/encoding/static/css/main.89095b97.css.map",
+    "main.352b0606.js.map": "/encoding/static/js/main.352b0606.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba924c71.js",
-    "static/css/2.a6725e97.chunk.css",
-    "static/js/2.02ce356d.chunk.js",
-    "static/css/main.da84156d.chunk.css",
-    "static/js/main.047ad534.chunk.js"
+    "static/css/main.89095b97.css",
+    "static/js/main.352b0606.js"
   ]
 }
