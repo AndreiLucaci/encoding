@@ -88,6 +88,25 @@ export const CodecTable = (props: CodecTableType) => {
               </ButtonGroup>
             </TableCell>
           </TableRow>
+          <TableRow>
+            <TableCell align="center">
+              <Typography variant="button">JSON Codec</Typography>
+            </TableCell>
+            <TableCell align="center">
+              <ButtonGroup
+                size="large"
+                color="primary"
+                aria-label="large outlined primary button group"
+              >
+                <Button onClick={() => onClick(codecService.json.encode)}>
+                  encode
+                </Button>
+                <Button onClick={() => onClick(codecService.json.decode)}>
+                  decode
+                </Button>
+              </ButtonGroup>
+            </TableCell>
+          </TableRow>
         </TableBody>
       </Table>
     </TableContainer>

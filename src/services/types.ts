@@ -9,7 +9,8 @@ export interface IDecode {
 export interface ICodec extends IEncode, IDecode {}
 
 export interface ICodecService {
-  html: ICodec;
-  url: ICodec;
   base64: ICodec;
+  html: ICodec;
+  json: ICodec;
+  url: ICodec;
 }

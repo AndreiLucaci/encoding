@@ -5,6 +5,7 @@ This exposes some javascript encoding / decoding tools, such as
 - URL encode / decode
 - HTML encode / decode
 - Base64 encode / decode
+- JSON stringify / parse
 
 Here's a quick demo:
 
